@@ -4,6 +4,8 @@
  
   <p>Cada vaga de emprego listada apresenta uma descrição detalhada, oferecendo aos candidatos uma compreensão clara das responsabilidades, qualificações necessárias e outros aspectos relevantes da posição. 
   <strong>Abertura de Vagas:</strong> Empresas podem utilizar o sistema para criar e publicar novas oportunidades de emprego. Isso envolve a inserção de informações detalhadas sobre a vaga, como título, descrição, requisitos e benefícios oferecidos.</p>
+<p>A implementação deste sistema foi realizada utilizando JavaScript (JS), Node.js e Sequelize para a interação com o banco de dados SQLite.</p>
+
 
   <h1>Captura de Tela</h1>
   <p>Aqui temos uma captura de tela do projeto:</p>
